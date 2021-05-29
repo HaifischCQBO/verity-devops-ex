@@ -1,3 +1,3 @@
 # verity-devops-ex
 
-This is because is not ready yet? yet? maybe now
+This is because is not ready yet? yet? maybe now 
