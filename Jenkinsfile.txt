@@ -5,7 +5,7 @@ pipeline {
 		
 		// ******ALL CODE TO BE ADDED BELOW THIS COMMENT******
 		
-	
+		//READY
 	
 		// ******ALL CODE TO BE ADDED ABOVE THIS COMMENT******
     }
